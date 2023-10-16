@@ -25,7 +25,7 @@
 ## Motors
 - [x] M1: Motor L
 - [x] M2: Motor R
-- [ ] M3
+- [x] M3: launcher
 - [ ] M4
 
 ## Buttons
